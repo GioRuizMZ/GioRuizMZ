@@ -11,8 +11,8 @@
 ### 🚀 Sobre mí
 - 🎯 Apasionado por crear proyectos de alto impacto
 - 🧠 Siempre aprendiendo nuevas tecnologías
-- 🖥️ Especializado en Backend, desarrollo móvil y sistemas embebidos
-- 📚 Actualmente profundizando en Cloud y Microservicios
+- 🖥️ Especializado en Frontend y desarrollo movil
+- 📚 Actualmente profundizando en el computo en la nube y microservicios
 
 ---
 
@@ -38,7 +38,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ruizmezagiovanni@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=ruizmezagiovanni@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
