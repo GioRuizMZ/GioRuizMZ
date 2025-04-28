@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de Software apasionado por crear soluciones inteligentes 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&duration=4000&center=true&vCenter=true&width=800&height=70&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+%7C+Frontend+Jr;Amante+del+aprendizaje+constante" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&size=28&duration=4000&center=true&vCenter=true&width=800&height=70&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+%7C+Frontend+Jr;Amante+del+aprendizaje+constante" alt="Typing SVG" />
 </p>
 
 
