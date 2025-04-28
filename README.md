@@ -18,8 +18,13 @@
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cplusplus,mysql,html,css,js,python,c,arduino,react" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,python,c,react,firebase" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
 
 
 ---
