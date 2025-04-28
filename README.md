@@ -18,7 +18,7 @@
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c++,mysql,html,css,js,python,c,arduino,react" />
+  <img src="https://skillicons.dev/icons?i=java,cplusplus,mysql,html,css,js,python,c,arduino,react" />
 </p>
 
 ---
