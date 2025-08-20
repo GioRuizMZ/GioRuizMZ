@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 - 🎯 Apasionado por crear proyectos de alto impacto
 - 🧠 Siempre aprendiendo nuevas tecnologías
 - 🖥️ Especializado en Frontend y desarrollo movil
@@ -16,14 +16,14 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,python,c,react,firebase" />
 </p>
 
 ---
 
-### 📈 Estadísticas
+### Estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GioRuizMZ&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
   <br>
@@ -32,7 +32,7 @@
 
 ---
 
-### 📫 Cómo contactarme
+### Cómo contactarme
 <p align="center" >
   <a href="https://www.linkedin.com/in/giovanni-alejandro-ruiz-meza-5997b7310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
