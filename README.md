@@ -23,15 +23,6 @@
 
 ---
 
-### Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GioRuizMZ&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GioRuizMZ&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
 ### Cómo contactarme
 <p align="center" >
   <a href="https://www.linkedin.com/in/giovanni-alejandro-ruiz-meza-5997b7310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
